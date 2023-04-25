@@ -96,16 +96,14 @@ const x = _({
               "Hi, I\u2019m Andrew. I\u2019m currently an FRQS postdoctoral fellow in the Dagher Lab. My research focuses on modelling the progression of brain changes in Parkinson\u2019s disease through the lenses of connectomics and imaging transcriptomics. I completed by PhD at the University of Western Ontario, where I conducted psychopharmacological studies in patients with Parkinson\u2019s disease and healthy volunteers to better understand the role of the dopamine system in cognition.",
           },
           {
-            title: `MSc Student: 
- Houman Azizi`,
+            title: `MSc Student: Houman Azizi`,
             url: new URL("/assets/Houman.2e04a8e1.jpg", self.location).href,
             link: "/Houman",
             content:
               "Houman received his B.Sc. in Honours Neuroscience from McGill University, and has since taken an interest in research in the fields of neurodegenration and neuroimaging.He worked as a research assistant at the Douglas Mental Health Institute with a focus on performing neuropsychological tests and MRI scans on human participants.He started his MSc studies at Dr. Alain Dagher\u2019s lab with co-supervision of Dr. Yashar Zeighami in September 2021, working on the relationship between polygenic risk scores and neuroanatomical measures in Parkinson\u2019s disease.His research interests include looking at the genetic and neurological patterns underlying Parkinson\u2019s disease and modeling of neurodegenerative disorders through machine learning.",
           },
           {
-            title: `Research Assistant: 
- Mirja Kuhlencord`,
+            title: `Postdoctoral Researcher: Mirja Kuhlencord`,
             url: new URL("/assets/Mirja.d154d921.jpg", self.location).href,
             link: "/Mirja",
             content: `Mirja graduated from Medical School in Germany in November 2021 (Halle University). Previously, she completed a B.Sc. degree in Psychology at Leipzig University in Germany. During her undergraduate studies, she worked as a research assistant with Prof. Jonas Obleser at the Max Planck Institute for Human Cognitive and Brain Sciences (Auditory Cognition group), examining the effects of feedback on perception and behaviour. During her medical studies, she developed a deep interest in neurological and psychiatric diseases and their pathophysiology, diagnostics and treatment. A short internship at Prof. Bogdan Draganski's Research in Neuroimaging (LREN) lab in Lausanne (Switzerland) gave her insight into neuroimaging data analysis and motivated her to pursue research in this field after her medical studies. 
@@ -114,7 +112,7 @@ She joined the Dagher lab in July 2022 and examines the relationship between gen
         ],
         alumni: [
           {
-            title: "Master Student: Trycia Kouchache",
+            title: "Msc Student: Trycia Kouchache",
             url: new URL("/assets/TryciaKouchache.3e4df46f.jpg", self.location)
               .href,
             link: "/Trycia",
