@@ -36,52 +36,6 @@ const x = _({
       return {
         items: [
           {
-            title: `Postdoctoral Researcher: Mirja Kuhlencord`,
-            url: new URL("/assets/Mirja.d154d921.jpg", self.location).href,
-            link: "/Mirja",
-            content: `Mirja graduated from Medical School in Germany in November 2021 (Halle University). Previously, she completed a B.Sc. degree in Psychology at Leipzig University in Germany. During her undergraduate studies, she worked as a research assistant with Prof. Jonas Obleser at the Max Planck Institute for Human Cognitive and Brain Sciences (Auditory Cognition group), examining the effects of feedback on perception and behaviour. During her medical studies, she developed a deep interest in neurological and psychiatric diseases and their pathophysiology, diagnostics and treatment. A short internship at Prof. Bogdan Draganski's Research in Neuroimaging (LREN) lab in Lausanne (Switzerland) gave her insight into neuroimaging data analysis and motivated her to pursue research in this field after her medical studies. 
-    She joined the Dagher lab in July 2022 and examines the relationship between genetic risk of neurodegenerative diseases (especially Parkinson\u2019s disease) and brain morphology. For her analyses, she works with large datasets like the UK Biobank.`,
-          },
-          {
-            title: "Postdoctoral Researcher: Alex Pastor-Bernier",
-            url: new URL("/assets/Alex.22caf2a3.jpg", self.location).href,
-            link: "/Alex",
-            content:
-              "Dr Pastor-Bernier has a background in molecular biology (Ms C. University of Oslo, Norway), classic primate electrophysiology (PhD. Universit\xE9 de Montr\xE9al, Canada) and human systems neuroscience (University of Cambridge, UK). His work relates to the psychology field of embodied cognition (Cisek P., and Pastor-Bernier A., 2014), motivated choice and neuroeconomics in both primates and humans (Pastor-Bernier, Stasiak A., and Schultz W). His work includes electrophysiological and utility theory modelling of multiple-component rewards and reward-specific satiety in both primates and humans: Pastor-Bernier et al., 2021-2017). Dr Pastor-Bernier is interested in studying value computational mechanisms underlying vulnerability to disease including disorders of motivation and self-control like addiction and disorders where apathy and anhedonia predominate like depression and Parkinson\u2019s Disease (PD). In Dr Dagher\u2019s lab at the Montreal Neurological institute (MNI-BIC), Alex is conducting a perceptual-discrimination neuroimaging study with Dr Qin Tau investigating the phenotypic traits that predispose humans to impulsive behaviour (urgency signaling). He is also studying how tractography phenotypes (DTI) manifest with genetic propensities for dysfunctional dopaminergic function in Alzheimer disease (AD) and PD in UKBB, Prevent_AD and QPN databases.",
-          },
-          {
-            title: `Postdoctoral Researcher: Andrew Vo`,
-            url: new URL("/assets/Andrew.39ddbb1a.jpg", self.location).href,
-            link: "/Andrew",
-            content:
-              "Hi, I\u2019m Andrew. I\u2019m currently an FRQS postdoctoral fellow in the Dagher Lab. My research focuses on modelling the progression of brain changes in Parkinson\u2019s disease through the lenses of connectomics and imaging transcriptomics. I completed by PhD at the University of Western Ontario, where I conducted psychopharmacological studies in patients with Parkinson\u2019s disease and healthy volunteers to better understand the role of the dopamine system in cognition.",
-          },
-          {
-            title: "Postdoctoral Researcher: Christina Tremblay",
-            url: new URL(
-              "/assets/ChristinaTremblay.b54ba7cb.jpg",
-              self.location
-            ).href,
-            link: "/Christina",
-            content:
-              "Christina Tremblay completed a PhD in Medical Research (Laval University, Canada) under the supervision of Dr. Laura Monetta, Dr. Jo\xEBl Macoir and Dr. Cyril Schneider about the effects of two brain stimulation technics, Deep Brain Stimulation and Transcranial Magnetic Stimulation (TMS), on cognitive and language abilities in Parkinson\u2019s disease. She also used TMS to investigate the role of the supplementary motor cortex in decision-making during her postdoctoral training at Aix-Marseille University in France. She holds a MSc in Neurobiology and BSc in Physic both from Laval University, Canada. She is currently working at the Montreal Neurological Institute (MNI) with Alain Dagher\u2019s research team on identifying vulnerable brain regions associated with Parkinson\u2019s and Alzheimer\u2019s disease pathology and the factors implicated in this vulnerability using multimodal neuroimaging analyses.",
-          },
-          {
-            title: "Postdoctoral Researcher: Filip Morys",
-            url: new URL("/assets/FilipMorys.ae3c4802.jpg", self.location).href,
-            link: "/Filip",
-            content:
-              "Filip is a postdoctoral research fellow at the Dagher Lab. He received his PhD in Leipzig, Germany, where he worked with Dr. Annette Horstmann on neural correlates of maladaptive decision-making in obesity. Currently, Filip is funded by the FRQS and is working on defining the causes and consequences of obesity. He is investigating the environmental, brain, and genetic risk factors for unhealthy weight gain as well as the long-term effects of chronic obesity on the brain. When not neurosciencing, Filip can be found playing tennis, watching tennis, or obsessing about a healthy lifestyle",
-          },
-          {
-            title: `Postdoctoral Researcher: Shady Rahayel`,
-            url: new URL("/assets/ShadyRahayel.62649e2c.jpg", self.location)
-              .href,
-            link: "/Shady",
-            content:
-              "Shady Rahayel is a postdoctoral researcher specialized in brain imaging, sleep, and neurodegenerative disorders. After a first postdoctoral training in molecular imaging at the University of Montreal, he is now a postdoctoral researcher at The Neuro in the lab of Alain Dagher. His research work primarily focuses on the use of MRI imaging and computational neuroscience to understand the neurodegeneration associated with prodromal and manifest synucleinopathies. Shady also practices as a clinical sleep psychologist.",
-          },
-          {
             title: "PhD student: Lang Liu",
             url: new URL("/assets/langliu.211ea394.jpg", self.location).href,
             link: "/LangLiu",
@@ -103,11 +57,32 @@ const x = _({
               "Mari received B.Sc. in biology from Kyoto University, Japan. For her PhD, she investigates how genetic and socioeconomic factors impact the brain, leading to impulsive behaviours. Additionally, she is interested in how brain mechanisms involved in impulsivity plays a role in obesity.",
           },
           {
+            title: "Postdoctoral Researcher: Alex Pastor-Bernier",
+            url: new URL("/assets/Alex.22caf2a3.jpg", self.location).href,
+            link: "/Alex",
+            content:
+              "Dr Pastor-Bernier has a background in molecular biology (Ms C. University of Oslo, Norway), classic primate electrophysiology (PhD. Universit\xE9 de Montr\xE9al, Canada) and human systems neuroscience (University of Cambridge, UK). His work relates to the psychology field of embodied cognition (Cisek P., and Pastor-Bernier A., 2014), motivated choice and neuroeconomics in both primates and humans (Pastor-Bernier, Stasiak A., and Schultz W). His work includes electrophysiological and utility theory modelling of multiple-component rewards and reward-specific satiety in both primates and humans: Pastor-Bernier et al., 2021-2017). Dr Pastor-Bernier is interested in studying value computational mechanisms underlying vulnerability to disease including disorders of motivation and self-control like addiction and disorders where apathy and anhedonia predominate like depression and Parkinson\u2019s Disease (PD). In Dr Dagher\u2019s lab at the Montreal Neurological institute (MNI-BIC), Alex is conducting a perceptual-discrimination neuroimaging study with Dr Qin Tau investigating the phenotypic traits that predispose humans to impulsive behaviour (urgency signaling). He is also studying how tractography phenotypes (DTI) manifest with genetic propensities for dysfunctional dopaminergic function in Alzheimer disease (AD) and PD in UKBB, Prevent_AD and QPN databases.",
+          },
+          {
+            title: `Postdoctoral Researcher: Andrew Vo`,
+            url: new URL("/assets/Andrew.39ddbb1a.jpg", self.location).href,
+            link: "/Andrew",
+            content:
+              "Hi, I\u2019m Andrew. I\u2019m currently an FRQS postdoctoral fellow in the Dagher Lab. My research focuses on modelling the progression of brain changes in Parkinson\u2019s disease through the lenses of connectomics and imaging transcriptomics. I completed by PhD at the University of Western Ontario, where I conducted psychopharmacological studies in patients with Parkinson\u2019s disease and healthy volunteers to better understand the role of the dopamine system in cognition.",
+          },
+          {
             title: `MSc Student: Houman Azizi`,
             url: new URL("/assets/Houman.2e04a8e1.jpg", self.location).href,
             link: "/Houman",
             content:
               "Houman received his B.Sc. in Honours Neuroscience from McGill University, and has since taken an interest in research in the fields of neurodegenration and neuroimaging.He worked as a research assistant at the Douglas Mental Health Institute with a focus on performing neuropsychological tests and MRI scans on human participants.He started his MSc studies at Dr. Alain Dagher\u2019s lab with co-supervision of Dr. Yashar Zeighami in September 2021, working on the relationship between polygenic risk scores and neuroanatomical measures in Parkinson\u2019s disease.His research interests include looking at the genetic and neurological patterns underlying Parkinson\u2019s disease and modeling of neurodegenerative disorders through machine learning.",
+          },
+          {
+            title: `Postdoctoral Researcher: Mirja Kuhlencord`,
+            url: new URL("/assets/Mirja.d154d921.jpg", self.location).href,
+            link: "/Mirja",
+            content: `Mirja graduated from Medical School in Germany in November 2021 (Halle University). Previously, she completed a B.Sc. degree in Psychology at Leipzig University in Germany. During her undergraduate studies, she worked as a research assistant with Prof. Jonas Obleser at the Max Planck Institute for Human Cognitive and Brain Sciences (Auditory Cognition group), examining the effects of feedback on perception and behaviour. During her medical studies, she developed a deep interest in neurological and psychiatric diseases and their pathophysiology, diagnostics and treatment. A short internship at Prof. Bogdan Draganski's Research in Neuroimaging (LREN) lab in Lausanne (Switzerland) gave her insight into neuroimaging data analysis and motivated her to pursue research in this field after her medical studies. 
+She joined the Dagher lab in July 2022 and examines the relationship between genetic risk of neurodegenerative diseases (especially Parkinson\u2019s disease) and brain morphology. For her analyses, she works with large datasets like the UK Biobank.`,
           },
         ],
         alumni: [
