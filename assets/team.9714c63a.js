@@ -75,8 +75,7 @@ const x = _({
           },
           {
             title: `Postdoctoral Researcher: Shady Rahayel`,
-            url: new URL("/assets/ShadyRahayel.62649e2c.jpg", self.location)
-              .href,
+            url: new URL("/assets/shady2.jpeg", self.location).href,
             link: "/Shady",
             content:
               "Shady Rahayel is a postdoctoral researcher specialized in brain imaging, sleep, and neurodegenerative disorders. After a first postdoctoral training in molecular imaging at the University of Montreal, he is now a postdoctoral researcher at The Neuro in the lab of Alain Dagher. His research work primarily focuses on the use of MRI imaging and computational neuroscience to understand the neurodegeneration associated with prodromal and manifest synucleinopathies. Shady also practices as a clinical sleep psychologist.",
