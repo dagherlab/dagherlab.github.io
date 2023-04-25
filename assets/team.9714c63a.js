@@ -36,7 +36,7 @@ const x = _({
       return {
         items: [
           {
-            title: "PhD student: Lang Liu",
+            title: "PhD student\nLang Liu",
             url: new URL("/assets/langliu.211ea394.jpg", self.location).href,
             link: "/LangLiu",
             content:
