@@ -16,6 +16,7 @@ Our group is located at the Montreal Neurological Institute. Our laboratory aims
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
+        <li data-target="#carousel" data-slide-to="5"></li>
     </ol>
 
     <!-- Items -->
@@ -32,9 +33,8 @@ Our group is located at the Montreal Neurological Institute. Our laboratory aims
         <div class="item">
             <img src="/images/slider7001400/slide4.png" alt="Slide 4" />
         </div>
-        </div>
         <div class="item">
-            <img src="/images/slider7001400/labphoto.jpg" alt="Slide 4" />
+            <img src="/images/slider7001400/labphoto.jpg" alt="Slide 5" />
         </div>
     </div>
 
