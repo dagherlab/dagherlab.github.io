@@ -8,7 +8,7 @@ permalink: /team/
 
 # Group Members
 
-The lab is a diverse team interested in connectomics and neuroimaging data science. We are looking to recruit more graduate students and postdocs with backgrounds in engineering, statistics, physics and life sciences.
+The lab is a diverse team interested in connectomics and neuroimaging data science. We are looking to recruit more graduate students and postdocs with backgrounds in engineering, statistics, psychology, computer science and neuroscience.
 
 Jump to [team](#team) or [alumni](#alumni).
 

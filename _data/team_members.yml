@@ -1,7 +1,7 @@
-- name: Bratislav Misic
-  photo: bratislav.jpg
-  info: Associate Professor & Canada Research Chair
-  email: bratislav.misic@mcgill.ca
+- name: Alain Dagher
+  photo: dagher_alain.png
+  info: Principal Investigator
+  email: alain.dagher@mcgill.ca
   number_educ: 0
   education1:
   education2:
@@ -9,67 +9,101 @@
   education4:
   education5:
 
-- name: Laura Suarez
-  photo: laura.jpg
-  info: FRQNT PhD student
-  email: laura.suarez@mail.mcgill.ca
-  number_educ: 0
-  education1: 
-  education2:
-  education3:
-  education4:
-
-- name: Zhen-Qi Liu
-  photo: zhen-qi.jpg
-  info: FRQNT PhD student
-  email: zhenqi.liu@mail.mcgill.ca
+- name: Andrew Vo
+  photo: Andrew.jpg
+  info: Postdoctoral Researcher
+  email: andrew.vo@mcgill.ca
   number_educ: 0
   education1:
   education2:
   education3:
   education4:
 
-- name: Vincent Bazinet
-  photo: vince.jpg
-  info: NSERC PhD student
-  email: vincent.bazinet@mail.mcgill.ca
-  number_educ: 0
-  education1:
-  education2:
-  education3:
-  education4:
-  
-- name: Justine Hansen
-  photo: justine.jpg
-  info: NSERC PhD student
-  email: justine.hansen@mail.mcgill.ca
+- name: Filip Morys
+  photo: Filip.jpg
+  info: Postdoctoral Researcher
+  email: filip.morys@mcgill.ca
   number_educ: 0
   education1:
   education2:
   education3:
   education4:
 
-- name: Filip Milisav
-  photo: filip.jpg
-  info: FRQNT PhD student
-  email: filip.milisav@mail.mcgill.ca
+- name: Christina Tremblay
+  photo: Christina.jpg
+  info: Postdoctoral Researcher
+  email: christina.tremblay@mcgill.ca
   number_educ: 0
   education1:
   education2:
   education3:
+  education4:
 
-- name: Andrea Luppi
-  photo: andrea.jpg
-  info: Banting Post-Doc
-  email: andrea.luppi@mail.mcgill.ca
+- name: Shady Rahayel
+  photo: Shady.jpeg
+  info: Postdoctoral Researcher
+  email: shady.rahayel@mcgill.ca
   number_educ: 0
   education1:
   education2:
   education3:
-  
-- name: Eric Ceballos
-  photo: eric.jpg
+  education4:
+
+- name: Alex Pastor-Bernier
+  photo: Alex.jpeg
+  info: Postdoctoral Researcher
+  email: alexandre.pastor@mcgill.ca
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+
+- name: Mirja Kuhlencord
+  photo: Mirja.jpeg
+  info: Postdoctoral Researcher
+  email: mirja.kuhlencord@mcgill.ca
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+
+- name: Lang Liu
+  photo: Lang.jpg
   info: PhD student
-  email: eric.ceballosdominguez@mail.mcgill.ca
+  email: lang.liu@mail.mcgill.ca
   number_educ: 0
-  education1: 
+  education1:
+  education2:
+  education3:
+
+- name: Qin Tao
+  photo: Qin.jpg
+  info: PhD student
+  email: qin.tao@mail.mcgill.ca
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+
+- name: Margie Garber
+  photo: Margie.jpg
+  info: PhD student
+  email: margie.garber@mail.mcgill.ca
+  number_educ: 0
+  education1:
+
+- name: Mari Shishikura
+  photo: Mari.jpg
+  info: PhD student
+  email: mari.shishikura@mail.mcgill.ca
+  number_educ: 0
+  education1:
+
+- name: Houman Azizi
+  photo: Houman.jpg
+  info: Master student
+  email: houman.azizi@mail.mcgill.ca
+  number_educ: 0
+  education1:
