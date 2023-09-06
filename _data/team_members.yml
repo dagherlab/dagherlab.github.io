@@ -50,7 +50,7 @@
   education4:
 
 - name: Alex Pastor-Bernier
-  photo: Alex.jpeg
+  photo: Alex.jpg
   info: Postdoctoral Researcher
   email: alexandre.pastor@mcgill.ca
   number_educ: 0
@@ -60,7 +60,7 @@
   education4:
 
 - name: Mirja Kuhlencord
-  photo: Mirja.jpeg
+  photo: Mirja.jpg
   info: Postdoctoral Researcher
   email: mirja.kuhlencord@mcgill.ca
   number_educ: 0
@@ -88,7 +88,7 @@
   education3:
 
 - name: Margie Garber
-  photo: Margie.jpg
+  photo: Margie.png
   info: PhD student
   email: margie.garber@mail.mcgill.ca
   number_educ: 0

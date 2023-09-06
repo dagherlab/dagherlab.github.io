@@ -10,5 +10,5 @@
 
 - title: "Parkinson's Disease"
   image: res_PD.jpeg
-  description: Networks of white matter fibers projections form polyfunctional neural circuits that support cognition. We study how the structural organization of the brain supports emergent neural dynamics. We are primarily interested in how structure-function coupling varies across the cortical hierarchy, how it depends on local micro-architecture, and how it varies across time.
+  description: Atrophy has been reported in multiple brain regions, even in the early stages of Parkinson’s disease. However, less is known about the progression of tissue loss after diagnosis. There have been a few studies of MRI-derived measures over time, but they were limited by small sample sizes, short follow-up durations or use of global volumetric measures. The most consistent findings are subcortical tissue loss early on, notably affecting striatum, thalamus, amygdala and hippocampus, and more widespread cortical atrophy when longer durations or larger sample sizes are used. With few exceptions, no study has attempted to relate the spatial pattern of atrophy progression to intrinsic properties of the brain, such as anatomical connectivity, cellular composition or regional gene expression. Such an analysis could provide information about pathophysiological mechanisms in Parkinson’s disease.
   highlight: 1
