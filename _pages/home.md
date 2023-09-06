@@ -32,9 +32,6 @@ Our group is located at the Montreal Neurological Institute. Our laboratory aims
         <div class="item">
             <img src="/images/slider7001400/slide4.png" alt="Slide 4" />
         </div>
-        <div class="item">
-            <img src="/images/slider7001400/labphoto.jpg" alt="Slide 5" />
-        </div>
     </div>
 
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
