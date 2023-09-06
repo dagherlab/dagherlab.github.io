@@ -1,0 +1,75 @@
+- name: Bratislav Misic
+  photo: bratislav.jpg
+  info: Associate Professor & Canada Research Chair
+  email: bratislav.misic@mcgill.ca
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+  education5:
+
+- name: Laura Suarez
+  photo: laura.jpg
+  info: FRQNT PhD student
+  email: laura.suarez@mail.mcgill.ca
+  number_educ: 0
+  education1: 
+  education2:
+  education3:
+  education4:
+
+- name: Zhen-Qi Liu
+  photo: zhen-qi.jpg
+  info: FRQNT PhD student
+  email: zhenqi.liu@mail.mcgill.ca
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+
+- name: Vincent Bazinet
+  photo: vince.jpg
+  info: NSERC PhD student
+  email: vincent.bazinet@mail.mcgill.ca
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+  
+- name: Justine Hansen
+  photo: justine.jpg
+  info: NSERC PhD student
+  email: justine.hansen@mail.mcgill.ca
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+
+- name: Filip Milisav
+  photo: filip.jpg
+  info: FRQNT PhD student
+  email: filip.milisav@mail.mcgill.ca
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+
+- name: Andrea Luppi
+  photo: andrea.jpg
+  info: Banting Post-Doc
+  email: andrea.luppi@mail.mcgill.ca
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  
+- name: Eric Ceballos
+  photo: eric.jpg
+  info: PhD student
+  email: eric.ceballosdominguez@mail.mcgill.ca
+  number_educ: 0
+  education1: 

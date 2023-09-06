@@ -1,0 +1,54 @@
+- name: Ross Markello
+  photo: ross.jpg
+  duration: Data Science Engineer at <a href='https://www.octavebio.com/'> Octave Biosciences</a>
+  info: PhD student, graduated 2021
+  email:
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+
+- name: Golia Shafiei
+  photo: golia.jpg
+  duration: Post-doc at Penn
+  info: PhD student, graduated 2021
+  email:
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+
+- name: Ying-Qiu Zheng
+  photo: yingqiu.jpg
+  duration: PhD student at Oxford
+  info: MSc student, graduated 2019
+  email:
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+  
+- name: Bertha Vazquez-Rodriguez
+  photo: bertha.jpg
+  duration: Data Science Engineer at <a href='https://clemex.com/'> Clemex</a>
+  info: Post-Doc
+  email: bertha.vazquezrodriguez@mail.mcgill.ca
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+  
+- name: Nykan Mirchi
+  photo: nykan.jpg
+  duration: MD student at UofT
+  info: BSc student, graduated 2018
+  email:
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:

@@ -1,0 +1,39 @@
+- title: "Neuroimaging Data Science"
+  image: res_neuromaps.png
+  description: Imaging technologies are increasingly used to generate high-resolution reference maps of brain structure and function. Modern scientific discovery relies on making comparisons between new maps (e.g. task activations, group structural differences) and these reference maps. We develop open tools for accessing, transforming, and analyzing structural and functional brain annotations.
+  highlight: 1
+
+- title: "Annotated Connectomics"
+  image: res_annot_vince.png
+  description: Brain regions differ in terms of their cytoarchitecture, neurotransmitter receptor profiles, gene expression, temporal dynamics, etc. We reconstruct “annotated” connectomes, enriched with features. The goal of this work is to understand how microscopic properties and macroscale network embedding interact to support the emergence of global dynamics and patterned neural activity.
+  highlight: 1
+  
+- title: "Structure-Function Coupling"
+  image: res_scfc_2.png
+  description: Networks of white matter fibers projections form polyfunctional neural circuits that support cognition. We study how the structural organization of the brain supports emergent neural dynamics. We are primarily interested in how structure-function coupling varies across the cortical hierarchy, how it depends on local micro-architecture, and how it varies across time.
+  highlight: 1
+
+- title: "Neuromorphic Networks"
+  image: res_rc.png
+  description: How does connectome architecture shape computation? We are constructing bio-instantiated artificial neural networks by implementing real biological brain connectomes as artificial networks. Using realistic biophysical dynamics and connection patterns, we are developing neuromorphic reservoir computers - connectomes that can be trained to perform cognitive tasks, such as working memory, language comprehension, spatial navigation.
+  highlight: 1
+
+- title: "Disease Propagation"
+  image: res_agent.png
+  description: Axonal fibers provide a scaffold through which misfolded pathogenic proteins spread, shaping the course and expression of neurodegenerative diseases such as Parkinson’s (PD) and Alzheimer’s (AD) disease.  We develop generative models that integrate connectivity (diffusion MRI), co-activation (functional MRI) and genetics (mRNA transcription) to predict the evolution of neurodegenerative diseases. 
+  highlight: 1
+
+- title: "Statistical Connectomics"
+  image: res_stat.png
+  description: An emerging theme in network neuroscience emphasizes links between multiscale structural and functional features of the brain, and the rich cognitive-behavioural repertoire they support. We develop multivariate statistical learning techniques that map high-dimensional brain imaging modalities to phenotypic variation in healthy and clinical populations.
+  highlight: 1
+
+- title: "Null Models"
+  image: res_null.png
+  description: How do we demonstrate that a brain network feature is statistically unexpected? Null models are an inferential tool to assess the presence or magnitude of features, by selectively preserving specific architectural properties of brain networks while randomizing others. We develop and systematically benchmark null models to understand the architecture of brain networks.
+  highlight: 1
+
+- title: "Network Communication"
+  image: res_comm.png
+  description: A fundamental question in connectomics is how the organization of brain networks supports neural signaling. Using anatomically realistic brain networks derived from imaging and tracing, we develop computational models of inter-regional communication. We use these models to characterize how communication processes unfold on structural brain networks and how they support cognitive capacity.
+  highlight: 1
