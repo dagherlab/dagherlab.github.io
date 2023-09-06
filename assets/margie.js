@@ -22,7 +22,7 @@ import "./use-dark.89eb9134.js";
 import "./QBtn.731f31c7.js";
 import "./dom.36906968.js";
 import "./scroll.a161af1e.js";
-var h = "/assets/langliu.211ea394.jpg";
+var h = "/assets/margie.jpg";
 const f = {},
   g = { class: "q-ma-md flex justify-start wrap", style: { width: "900px" } },
   u = t(
@@ -38,9 +38,14 @@ const f = {},
     -1
   ),
   x = { class: "q-ma-md", style: { width: "100%" } },
-  b = t("p", { class: "text-h4" }, "Lang Liu", -1),
+  b = t("p", { class: "text-h4" }, "Margie Garber", -1),
   w = { class: "float-right vertical-top" },
-  v = t("a", { href: "alain.dagher@mcgill.ca" }, "lang.liu@mail.mcgill.ca", -1),
+  v = t(
+    "a",
+    { href: "alain.dagher@mcgill.ca" },
+    "margie.garber@mail.mcgill.ca",
+    -1
+  ),
   Q = t(
     "p",
     { class: "q-my-md text-subtitle2 text-orange-9" },
@@ -50,13 +55,7 @@ const f = {},
   L = t(
     "div",
     { class: "q-ma-md" },
-    [
-      t(
-        "p",
-        { class: "q-my-md" },
-        "Lang completed his BA in cell and systems biology, statistics and mathematics in the University of Toronto. He completed his MSc in biomedical informatics in the Department of Computing, Queens University. His projects are focused on bioinformatic and machine learning approaches using genetics and brain imaging in PD."
-      ),
-    ],
+    [t("p", { class: "q-my-md" }, "Margie is a PhD candidate.")],
     -1
   );
 function q(D, B) {
