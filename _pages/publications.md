@@ -6,12 +6,11 @@ sitemap: false
 permalink: /publications/
 ---
 
-
 # Publications
 
 ## Highlights
 
-For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ca/citations?user=Jv_ICEoAAAAJ&hl=en) or [PubMed](https://www.ncbi.nlm.nih.gov/pubmed?term=Misic%20B%5BAuthor%5D). Code is available on our [GitHub repo](https://github.com/netneurolab).
+For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ca/citations?hl=en&user=Lu2XPfUAAAAJ&view_op=list_works&sortby=pubdate).
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -20,6 +19,7 @@ For a full list see [below](#full-list) or go to [Google Scholar](https://schola
 {% if publi.highlight == 1 %}
 
 {% if even_odd == 0 %}
+
 <div class="row">
 {% endif %}
 
@@ -38,6 +38,7 @@ For a full list see [below](#full-list) or go to [Google Scholar](https://schola
 {% assign number_printed = number_printed | plus: 1 %}
 
 {% if even_odd == 1 %}
+
 </div>
 {% endif %}
 
@@ -46,18 +47,8 @@ For a full list see [below](#full-list) or go to [Google Scholar](https://schola
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
+
 </div>
 {% endif %}
 
 <p> &nbsp; </p>
-
-
-## Full List
-
-{% for publi in site.data.publist %}
-
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
-{% endfor %}
-
