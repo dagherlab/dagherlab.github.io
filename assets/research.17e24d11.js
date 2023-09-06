@@ -21,7 +21,13 @@ const x = f({
     data() {
       return {
         items: [
-          { title: "2022", author: "author", content: "content here" },
+          {
+            title:
+              "Obesity-Associated Neurodegeneration Pattern Mimics Alzheimer’s Disease in an Observational Cohort Study",
+            author: "Filip Morys, et al",
+            content:
+              "we compared patterns of brain atrophy and amyloid-β/tau protein accumulation in obesity and AD using a sample of over 1,300 individuals from four groups: AD patients, healthy controls, obese otherwise healthy individuals, and lean individuals.",
+          },
           { title: "2022", author: "author", content: "content here" },
           { title: "2022", author: "author", content: "content here" },
           { title: "2022", author: "author", content: "content here" },
@@ -38,7 +44,14 @@ const x = f({
     "Research",
     -1
   ),
-  q = t("img", { src: "https://cdn.quasar.dev/img/mountains.jpg" }, null, -1),
+  q = t(
+    "img",
+    {
+      src: "https://content.iospress.com/media/jad/2023/91-3/jad-91-3-jad220535/jad-91-jad220535-g001.jpg",
+    },
+    null,
+    -1
+  ),
   v = { class: "text-h6" },
   w = { class: "text-subtitle2 text-orange-9" },
   C = t("img", { src: "https://cdn.quasar.dev/img/mountains.jpg" }, null, -1),
