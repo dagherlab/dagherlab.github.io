@@ -22,44 +22,34 @@ const g = [
       "Neuro Appreciation day in 2022",
       "../assets/newsPhoto/NeuroAppreciationdayin2022.jpg",
       " ",
-      "content here",
+      "",
     ],
-    [
-      "Lab picnic 2022",
-      "../assets/newsPhoto/Labpicnic2022.jpg",
-      " ",
-      "content here",
-    ],
-    [
-      "Lab dinner 2021",
-      "../assets/newsPhoto/Labdinner2021.jpg",
-      "all of us",
-      "content here",
-    ],
+    ["Lab picnic 2022", "../assets/newsPhoto/Labpicnic2022.jpg", " ", ""],
     [
       "Filip's presentation",
       "../assets/newsPhoto/Filipspresentation.jpg",
       "Filip Morys",
-      "content here",
+      "",
     ],
     [
       "Filip and Mari",
       "../assets/newsPhoto/FilipandMari.jpg",
       "Filip Morys & Mari",
-      "content here",
+      "",
     ],
     [
       "Lab in the conference",
       "../assets/newsPhoto/Labintheconference.jpg",
       " ",
-      "content here",
+      "",
     ],
     [
       "LiuYi and JiaQi farewell party",
       "../assets/newsPhoto/LiuYiandJiaQifarewellparty.jpg",
       " ",
-      "content here",
+      "",
     ],
+    ["Lab dinner 2021", "../assets/newsPhoto/Labdinner2021.jpg", "", ""],
   ],
   b = u({
     data() {
@@ -69,7 +59,7 @@ const g = [
             title: "Sugar Shack in 2023",
             url: new URL("/assets/sugar_shack_2023.jpg", self.location).href,
             people: " ",
-            content: "content here",
+            content: "",
           },
           {
             title: "Neuro Appreciation day in 2022",
@@ -78,28 +68,21 @@ const g = [
               self.location
             ).href,
             people: " ",
-            content: "content here",
+            content: "",
           },
           {
             title: "Lab picnic 2022",
             url: new URL("/assets/Labpicnic2022.a3f93b59.jpg", self.location)
               .href,
             people: " ",
-            content: "content here",
-          },
-          {
-            title: "Lab dinner 2021",
-            url: new URL("/assets/Labdinner2021.8d75d798.jpg", self.location)
-              .href,
-            people: "all of us",
-            content: g[2][3],
+            content: "",
           },
           {
             title: "Filip and Mari",
             url: new URL("/assets/FilipandMari.65ce9a09.jpg", self.location)
               .href,
             people: "Filip Morys & Mari",
-            content: "content here",
+            content: "",
           },
           {
             title: "Lab in the conference",
@@ -108,7 +91,7 @@ const g = [
               self.location
             ).href,
             people: " ",
-            content: "content here",
+            content: "",
           },
           {
             title: "LiuYi and JiaQi farewell party",
@@ -116,8 +99,8 @@ const g = [
               "/assets/LiuYiandJiaQifarewellparty.edfa3ae1.jpg",
               self.location
             ).href,
-            people: " ",
-            content: "content here",
+            people: "LiuYi and JiaQi",
+            content: "",
           },
           {
             title: "Filip's presentation",
@@ -126,7 +109,14 @@ const g = [
               self.location
             ).href,
             people: "Filip Morys",
-            content: "content here",
+            content: "",
+          },
+          {
+            title: "Lab dinner 2021",
+            url: new URL("/assets/Labdinner2021.8d75d798.jpg", self.location)
+              .href,
+            people: "all of us",
+            content: g[2][3],
           },
         ],
       };

@@ -1,19 +1,13 @@
-import { Q as o } from "./QImg.b4b5b53f.js";
+import { Q as r } from "./QImg.b4b5b53f.js";
+import { b as o, c as n, d, Q as l, C as c } from "./ClosePopup.1e2aae46.js";
+import { Q as h } from "./QPage.43821086.js";
 import {
-  b as c,
-  c as n,
-  d as l,
-  Q as r,
-  C as m,
-} from "./ClosePopup.1e2aae46.js";
-import { Q as d } from "./QPage.43821086.js";
-import {
-  _,
-  C as a,
+  _ as m,
+  C as s,
   D as i,
-  E as s,
-  G as t,
-  d as e,
+  E as t,
+  G as e,
+  d as a,
   k as p,
 } from "./index.a522e294.js";
 import "./QSpinner.15e54a01.js";
@@ -22,81 +16,81 @@ import "./use-dark.89eb9134.js";
 import "./QBtn.731f31c7.js";
 import "./dom.36906968.js";
 import "./scroll.a161af1e.js";
-var h = "/assets/margie.jpg";
-const f = {},
-  g = { class: "q-ma-md flex justify-start wrap", style: { width: "900px" } },
-  u = t(
+var u = "/assets/margie.jpg";
+const g = {},
+  _ = { class: "q-ma-md flex justify-start wrap", style: { width: "900px" } },
+  f = e(
     "p",
     { class: "text-h3 q-ml-md", style: { width: "100%" } },
     "Team",
     -1
   ),
-  y = t(
+  y = e(
     "p",
     { class: "text-h4 q-ma-md text-blue-grey-9", style: { width: "100%" } },
     "Member:",
     -1
   ),
-  x = { class: "q-ma-md", style: { width: "100%" } },
-  b = t("p", { class: "text-h4" }, "Margie Garber", -1),
-  w = { class: "float-right vertical-top" },
-  v = t(
+  v = { class: "q-ma-md", style: { width: "100%" } },
+  w = e("p", { class: "text-h4" }, "Margie Garber", -1),
+  x = { class: "float-right vertical-top" },
+  b = e(
     "a",
-    { href: "alain.dagher@mcgill.ca" },
-    "margie.garber@mail.mcgill.ca",
+    { href: "margie.garber@mail.mcgill.ca" },
+    "margie.garbe@mail.mcgill.ca",
     -1
   ),
-  Q = t(
+  k = e(
     "p",
     { class: "q-my-md text-subtitle2 text-orange-9" },
     "Dagher's Lab",
     -1
   ),
-  L = t(
+  j = e(
     "div",
     { class: "q-ma-md" },
-    [t("p", { class: "q-my-md" }, "Margie is a PhD candidate")],
+    [e("p", { class: "q-my-md" }, "Margie Garber is a PhD candidate")],
     -1
   );
-function q(D, B) {
+function M(Q, q) {
   return (
-    a(),
+    s(),
     i(
-      d,
+      h,
       { class: "flex justify-center items-start" },
       {
-        default: s(() => [
-          t("div", g, [
-            u,
+        default: t(() => [
+          e("div", _, [
+            f,
             y,
-            t("div", x, [
-              e(o, {
+            e("div", v, [
+              a(r, {
                 class: "float-left q-ma-md",
-                src: h,
+                src: u,
                 style: { width: "25%", "min-width": "300px" },
               }),
-              b,
-              t("div", w, [
-                e(
-                  r,
+              w,
+              e("div", x, [
+                a(
+                  l,
                   { label: "contact me", "dropdown-icon": "change_history" },
                   {
-                    default: s(() => [
-                      e(c, null, {
-                        default: s(() => [
+                    default: t(() => [
+                      a(o, null, {
+                        default: t(() => [
                           p(
-                            (a(),
+                            (s(),
                             i(
                               n,
                               { clickable: "" },
                               {
-                                default: s(() => [
-                                  e(l, null, { default: s(() => [v]), _: 1 }),
+                                default: t(() => [
+                                  a(d, null, { default: t(() => [b]), _: 1 }),
                                 ]),
                                 _: 1,
                               }
                             )),
-                            [[m]]
+                            [[c]]
                           ),
                         ]),
                         _: 1,
@@ -106,8 +100,8 @@ function q(D, B) {
                   }
                 ),
               ]),
-              Q,
-              L,
+              k,
+              j,
             ]),
           ]),
         ]),
@@ -116,5 +110,5 @@ function q(D, B) {
     )
   );
 }
-var U = _(f, [["render", q]]);
+var U = m(g, [["render", M]]);
 export { U as default };
