@@ -1,15 +1,15 @@
-- title: "Neuroimaging Data Science"
-  image: res_neuromaps.png
-  description: Imaging technologies are increasingly used to generate high-resolution reference maps of brain structure and function. Modern scientific discovery relies on making comparisons between new maps (e.g. task activations, group structural differences) and these reference maps. We develop open tools for accessing, transforming, and analyzing structural and functional brain annotations.
+- title: "Obesity"
+  image: res_obesity.jpg
+  description: Excess weight in adulthood leads to health complications such as diabetes, hypertension, or dyslipidemia. Recently, excess weight has also been related to brain atrophy and cognitive decline. Reports show that obesity is linked with Alzheimer’s disease (AD)-related changes, such as cerebrovascular damage or amyloid-β accumulation. However, to date no research has conducted a direct comparison between brain atrophy patterns in AD and obesity.
   highlight: 1
 
-- title: "Annotated Connectomics"
-  image: res_annot_vince.png
-  description: Brain regions differ in terms of their cytoarchitecture, neurotransmitter receptor profiles, gene expression, temporal dynamics, etc. We reconstruct “annotated” connectomes, enriched with features. The goal of this work is to understand how microscopic properties and macroscale network embedding interact to support the emergence of global dynamics and patterned neural activity.
+- title: "REM sleep behavior disorder"
+  image: res_RBD.png
+  description: Isolated rapid eye movement sleep behavior disorder (iRBD) is a parasomnia characterized by abnormal movements and vocalizations during REM sleep that typically develops into dementia with Lewy bodies (DLB), Parkinson’s disease (PD), and multiple system atrophy (MSA). As a prodromal synucleinopathy, iRBD patients show brain changes like those seen in manifest synucleinopathies. In particular, brain atrophy has been shown to occur in iRBD patients, which correlates with clinical changes, especially cognitive impairment, and can even predict the phenoconversion to DLB compared to PD. However, to date, the mechanisms underlying the development of brain atrophy and its patterns in iRBD remain poorly understood.
   highlight: 1
-  
-- title: "Structure-Function Coupling"
-  image: res_scfc_2.png
+
+- title: "Parkinson's Disease"
+  image: res_PD.jpeg
   description: Networks of white matter fibers projections form polyfunctional neural circuits that support cognition. We study how the structural organization of the brain supports emergent neural dynamics. We are primarily interested in how structure-function coupling varies across the cortical hierarchy, how it depends on local micro-architecture, and how it varies across time.
   highlight: 1
 
@@ -20,7 +20,7 @@
 
 - title: "Disease Propagation"
   image: res_agent.png
-  description: Axonal fibers provide a scaffold through which misfolded pathogenic proteins spread, shaping the course and expression of neurodegenerative diseases such as Parkinson’s (PD) and Alzheimer’s (AD) disease.  We develop generative models that integrate connectivity (diffusion MRI), co-activation (functional MRI) and genetics (mRNA transcription) to predict the evolution of neurodegenerative diseases. 
+  description: Axonal fibers provide a scaffold through which misfolded pathogenic proteins spread, shaping the course and expression of neurodegenerative diseases such as Parkinson’s (PD) and Alzheimer’s (AD) disease.  We develop generative models that integrate connectivity (diffusion MRI), co-activation (functional MRI) and genetics (mRNA transcription) to predict the evolution of neurodegenerative diseases.
   highlight: 1
 
 - title: "Statistical Connectomics"

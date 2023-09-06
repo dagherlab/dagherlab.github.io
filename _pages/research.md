@@ -1,13 +1,12 @@
 ---
-title: "NetNeuroLab - Research"
+title: "DagherLab - Research"
 layout: textlay
-excerpt: "NetNeuroLab - Research"
+excerpt: "DagherLab - Research"
 sitemap: false
 permalink: /research/
 ---
 
 # Research
-
 
 {% assign number_printed = 0 %}
 {% for proj in site.data.projlist %}
@@ -16,6 +15,7 @@ permalink: /research/
 {% if proj.highlight == 1 %}
 
 {% if even_odd == 0 %}
+
 <div class="row">
 {% endif %}
 
@@ -30,6 +30,7 @@ permalink: /research/
 {% assign number_printed = number_printed | plus: 1 %}
 
 {% if even_odd == 1 %}
+
 </div>
 {% endif %}
 
@@ -38,6 +39,7 @@ permalink: /research/
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
+
 </div>
 {% endif %}
 
