@@ -94,19 +94,12 @@ const x = _({
             content:
               "Qin received her B.S. degree in computer science and technology from Chengdu University of Technology and her M.S. degree in biomedical engineering from University of Electronic Science and Technology of China. For her PhD, her research interests include visual neuroscience research, where she attempts to explore the inner visual representation and apply it to computational model design. Moreover, Qin is also interested in decision-making and the reward system, and she attempts to collaborate with Alex Pastor-Bernier to investigate the effect of dopamine levels on perceptual decision-making.",
           },
-
           {
             title: "PhD student: Mari Shishikura",
             url: new URL("/assets/mari.1af3b6f7.jpg", self.location).href,
             link: "/mari",
             content:
               "Mari received B.Sc. in biology from Kyoto University, Japan. For her PhD, she investigates how genetic and socioeconomic factors impact the brain, leading to impulsive behaviours. Additionally, she is interested in how brain mechanisms involved in impulsivity plays a role in obesity.",
-          },
-          {
-            title: "PhD student: Margie Garber",
-            url: new URL("/assets/margie.jpg", self.location).href,
-            link: "/margie",
-            content: "Margie is a PhD candidate.",
           },
           {
             title: `MSc Student: Houman Azizi`,
