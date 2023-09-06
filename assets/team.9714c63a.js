@@ -102,6 +102,12 @@ const x = _({
               "Mari received B.Sc. in biology from Kyoto University, Japan. For her PhD, she investigates how genetic and socioeconomic factors impact the brain, leading to impulsive behaviours. Additionally, she is interested in how brain mechanisms involved in impulsivity plays a role in obesity.",
           },
           {
+            title: "PhD student: Margie Garber",
+            url: new URL("/assets/margie.jpg", self.location).href,
+            link: "/margie",
+            content: "Margie is a PhD candidate.",
+          },
+          {
             title: `MSc Student: Houman Azizi`,
             url: new URL("/assets/Houman.2e04a8e1.jpg", self.location).href,
             link: "/Houman",
