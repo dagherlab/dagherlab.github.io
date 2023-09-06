@@ -113,7 +113,7 @@ const x = _({
         ],
         alumni: [
           {
-            title: "Msc Student: Trycia Kouchache",
+            title: "MSc Student: Trycia Kouchache",
             url: new URL("/assets/TryciaKouchache.3e4df46f.jpg", self.location)
               .href,
             link: "/Trycia",
