@@ -12,7 +12,7 @@
 - name: Andrew Vo
   photo: Andrew.jpg
   info: Postdoctoral Researcher
-  email: andrew.vo@mcgill.ca
+  email: andrew.vo@outlook.com
   number_educ: 0
   education1:
   education2:
@@ -32,7 +32,7 @@
 - name: Christina Tremblay
   photo: Christina.jpg
   info: Postdoctoral Researcher
-  email: christina.tremblay@mcgill.ca
+  email: christina.tremblay2@mcgill.ca
   number_educ: 0
   education1:
   education2:
@@ -42,7 +42,7 @@
 - name: Shady Rahayel
   photo: Shady.jpeg
   info: Postdoctoral Researcher
-  email: shady.rahayel@mcgill.ca
+  email: shady.rahayel@mail.mcgill.ca
   number_educ: 0
   education1:
   education2:
@@ -88,7 +88,7 @@
   education3:
 
 - name: Margie Garber
-  photo: Margie.png
+  photo: margaret.jpg
   info: PhD student
   email: margie.garber@mail.mcgill.ca
   number_educ: 0
@@ -101,9 +101,37 @@
   number_educ: 0
   education1:
 
+- name: Moohebat Pourmajidian
+  photo: Margie.png
+  info: PhD student
+  email: moohebat.pourmajidian@mail.mcgill.ca
+  number_educ: 0
+  education1:
+
 - name: Houman Azizi
   photo: Houman.jpg
   info: Master student
   email: houman.azizi@mail.mcgill.ca
+  number_educ: 0
+  education1:
+
+- name: Mayuri Maheswaran
+  photo: Margie.jpg
+  info: Master student
+  email: maiuri.maheswaran@mail.mcgill.ca
+  number_educ: 0
+  education1:
+
+- name: Max Tweedale
+  photo: Margie.png
+  info: Undergraduate research student
+  email: houman.azizi@mail.mcgill.ca
+  number_educ: 0
+  education1:
+
+- name: Karl Wennberg
+  photo: Margie.png
+  info: Undergraduate research student
+  email: karl.wennberg@mail.mcgill.ca
   number_educ: 0
   education1:
